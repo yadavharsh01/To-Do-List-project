@@ -4,6 +4,9 @@ It is a Todo list application which helps to add a ToDo task manipulate it such 
 &
 This project is a simple Todo List application built using HTML, CSS, and JavaScript. It incorporates Material UI for a modern and user-friendly interface, and Tailwind CSS for easy styling. The application supports local storage to persist the user's todos even after refreshing the page. CRUD (Create, Read, Update, Delete) operations are implemented, allowing users to add new todos, mark them as done, update their content, and delete them when fulfilled.
 
+### Deployed Link
+ #### Github Pages 
+      https://yadavharsh01.github.io/To-Do-List-project/
 ## Tech Stack
 
 - **HTML**: Provides the structure for the web page.
