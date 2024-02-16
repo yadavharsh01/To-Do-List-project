@@ -8,6 +8,8 @@ This project is a simple Todo List application built using HTML, CSS, and JavaSc
  #### Github Pages 
       https://yadavharsh01.github.io/To-Do-List-project/
  #### Netlify Deployment
+      https://65b2ce6e3880fd358f87df0d--tourmaline-cat-9d4a77.netlify.app/
+
       
 ## Tech Stack
 
